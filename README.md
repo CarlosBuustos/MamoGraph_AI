@@ -78,9 +78,7 @@ Evaluation performed on the independent test set:
 
 ## 📉 ROC Curve
 
-![ROC Curve](assets/roc_curve.png)
+![ROC Curve](sources/roc_curve.png)
 
 ---
-
-## 📂 Project Structure
 
