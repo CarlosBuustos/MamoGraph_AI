@@ -6,7 +6,8 @@
 
 ## Preview
 
-![Mammograph AI](sources/Mamograph AI.png)
+![Mammograph AI](sources/mammograph-ai.jpg)
+
 
 ---
 
