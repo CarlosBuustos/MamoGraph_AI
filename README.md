@@ -2,13 +2,25 @@
   
 ### Deep Learning for Early Breast Cancer Detection
 
-Mammograph.ai is a supervised deep learning system developed in Python for the early detection of breast cancer using mammographic imaging data.
+---
 
-The model is trained on a dataset of **30,000 labeled mammograms** provided by the **University of North Florida**, aiming to improve early-stage detection accuracy while minimizing false negatives.
+## 🖼 Project Preview
+
+![Mammograph AI](sources/Mamograph AI.png)
+
+---
+
+## 🎥 Project Presentation Video
+
+[▶ Watch Presentation Video](sources/MamographAI.mp4)
 
 ---
 
 ## 🚀 Overview
+
+Mammograph.ai is a supervised deep learning system developed in Python for the early detection of breast cancer using mammographic imaging data.
+
+The model is trained on a dataset of **30,000 labeled mammograms** provided by the **University of North Florida**, aiming to improve early-stage detection accuracy while minimizing false negatives.
 
 Breast cancer remains one of the most prevalent cancers worldwide. Early detection significantly increases survival rates.
 
@@ -81,4 +93,6 @@ Evaluation performed on the independent test set:
 ![ROC Curve](sources/roc_curve.png)
 
 ---
+
+## 📂 Project Structure
 
