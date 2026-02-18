@@ -4,19 +4,20 @@
 
 ---
 
-## 🖼 Project Preview
+## Preview
 
 ![Mammograph AI](sources/Mamograph AI.png)
 
 ---
 
-## 🎥 Project Presentation Video
+## Project Presentation Video
 
-[▶ Watch Presentation Video](sources/MamographAI.mp4)
+[![Watch the video](https://img.youtube.com/vi/EPCRkPJ6etY/maxresdefault.jpg)](https://youtu.be/EPCRkPJ6etY)
+
 
 ---
 
-## 🚀 Overview
+## Overview
 
 Mammograph.ai is a supervised deep learning system developed in Python for the early detection of breast cancer using mammographic imaging data.
 
@@ -33,7 +34,7 @@ Mammograph.ai leverages Convolutional Neural Networks (CNNs) to:
 
 ---
 
-## 🏗 Model Architecture
+## Model Architecture
 
 The system is based on a deep CNN optimized for medical imaging classification.
 
