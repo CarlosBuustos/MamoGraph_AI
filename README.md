@@ -6,7 +6,7 @@
 
 ## Preview
 
-![Mammograph AI](/sources/Mamograph AI.jpeg)
+![Mammograph AI](/sources/Mamograph-AI.jpeg)
 
 
 ---
